@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and CCG
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on some capstone project
-- 📫 How to reach me [Secret](https://mastodon.social/@Under_E1)
+- 📫 How to reach me on Mastodon or something
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Rogue-like games and Lo-fi Music
 
